@@ -1,12 +1,10 @@
 # Vargha Khallokhi
 ## AI Researcher
 ### Personal Profile
-I am a AI researcher and deep learning developer in both Pytorch and Tensorflow frameworks and
-have experience in a startup environment and
-worked with computer vision and generative models.
-I self-studied machine learning and earned
-knowledge on their algorithms and programming
-skill. I am currently learning deep reinforcement learning.
+- I am a AI researcher and deep learning developer and worked with both Pytorch and Tensorflow frameworks. 
+- I have experience in a startup environment and willing to cooperate in startups.
+- I have experience in computer vision and generative models.
+- I self-studied machine learning and earned knowledge on their algorithms and programming skill and I am currently learning deep reinforcement learning.
 
 <br>
 
