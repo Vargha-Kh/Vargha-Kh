@@ -19,9 +19,10 @@ generative models for classification and object
 detection tasks with CNNs and GANs. [Demo](https://demo.symolife.com)
 #### NLP Paraphrasing Project [Paraphrase](http://new.keybot.tools)
 - This tool have multiple forms of paraphrasing modes and different grammar in English for paraphrasing.
-
-
-<br>
+#### [Deep Utils](https://github.com/pooya-mohammadi/deep_utils) Project
+- This repository contains the most frequently used deep learning models and functions. Deep_Utils is still under heavy development, so take into consideration that many features may change in the future.
+#### [Bread Counter](https://github.com/Vargha-Kh/Bread_Counter)
+- This algorithm is based on YOLO object detection and will count the every breadough that will enter into the oven of the bakery. The purpose of this software is to check whether the bakery will bake the correct amount of the bread that the goverment gave them flour based on that amount.
 
 ### Contact Me
 Email: vkhalokhi@gmail.com \
