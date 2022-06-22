@@ -17,6 +17,9 @@ and image processing.
 - Earning experience with computer vision and
 generative models for classification and object
 detection tasks with CNNs and GANs. [Demo](https://demo.symolife.com)
+#### NLP Paraphrasing Project [Paraphrase](http://new.keybot.tools)
+- This tool have multiple forms of paraphrasing modes and different grammar in English for paraphrasing.
+
 
 <br>
 
