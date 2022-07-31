@@ -24,6 +24,13 @@ detection tasks with CNNs and GANs. [Demo](https://demo.symolife.com)
 #### [Bread Counter](https://github.com/Vargha-Kh/Bread_Counter) Project 
 - This algorithm is based on YOLO object detection and will count the every breadough that will enter into the oven of the bakery. The purpose of this software is to check whether the bakery will bake the correct amount of the bread that the goverment gave them flour based on that amount.
 
+#### [Hand Pose and gesture recognition](https://github.com/Vargha-Kh/Hand-Gesture-Recognition-Mediapipe) Project 
+- This algorithm is based on MediaPipe api and we developed the datasets by adding more images of hands and it can be used for hand tracking and even also will be used for object detection integration.
+
+#### [Body Pose detection](https://github.com/Vargha-Kh/Pose-Detection-using-Media-Pipe) Project 
+- This algorithm is based on MediaPipe api and we developed the simple model into a model with more accuracy and it can be used for body tracking and even also will be used for object detection integration including a person's body.
+
+
 ### Contact Me
 Email: vkhalokhi@gmail.com \
 LinkedIn: https://www.linkedin.com/in/vargha-khallokhi \
