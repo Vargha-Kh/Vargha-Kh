@@ -30,6 +30,8 @@ detection tasks with CNNs and GANs. [Demo](https://demo.symolife.com)
 #### [Body Pose detection](https://github.com/Vargha-Kh/Pose-Detection-using-Media-Pipe) Project 
 - This algorithm is based on MediaPipe api and we developed the simple model into a model with more accuracy and it can be used for body tracking and even also will be used for object detection integration including a person's body.
 
+#### [YOLOV7 on custom datasets](https://github.com/Vargha-Kh/YOLOV7_on_BCCD) Project
+- This time i used new yolo version to train a model for a medical datasets in roboflow and get the inference with 2.8 ms.
 
 ### Contact Me
 Email: vkhalokhi@gmail.com \
