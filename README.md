@@ -1,10 +1,10 @@
 # Vargha Khallokhi
 ## AI Researcher
 ### Personal Profile
-I started programming when i was 15 years old and got the C++ coure MFT certificate. Then after few years i become enthusiastic into learning python and machine learning. 
-- I am a AI researcher and deep learning developer and I really enjoy working on researches and cutting-edge technologies in AI. 
-- I have experience in a startup environments and had experience in entrepreneurship field.
-- I have experience in computer vision, machine vision, image processing and generative adversarials models.
+I started programming when I was 15 years old and got the C++ course MFT certificate. Then after a few years, I become enthusiastic about learning python and machine learning.
+- I am a AI researcher and deep learning developer and I really enjoy working on research and cutting-edge technologies in AI.
+- I have experience in a startup environment and had experience in the entrepreneurship field.
+- I have experience in computer vision, machine vision, image processing, and generative adversarial models.
 - I self-studied the whole python and machine learning algorithms and programming skills by practicing and working.
 
 <br>
