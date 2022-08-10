@@ -12,7 +12,7 @@ I started programming when I was 15 years old and got the C++ course MFT certifi
 ### Experiences
 #### Co-Founder & CTO at [AI Land](https://www.linkedin.com/company/artificial-intelligence-land)
 - We provide AI services and AI products.
-#### Image processing Specialist at [Virasad](https://virasad.ir/en/homepage/)
+#### AI Lead at [Virasad](https://virasad.ir/en/homepage/)
 - Working machine vision and using computer vision in
 different fields of industrial monitoring, optimization
 and image processing.
