@@ -1,14 +1,17 @@
 # Vargha Khallokhi
 ## AI Researcher
 ### Personal Profile
-- I am a AI researcher and deep learning developer and worked with both Pytorch and Tensorflow frameworks. 
-- I have experience in a startup environment and willing to cooperate in startups.
-- I have experience in computer vision and generative models.
-- I self-studied machine learning and earned knowledge on their algorithms and programming skill and I am currently learning deep reinforcement learning.
+I started programming when i was 15 years old and got the C++ coure MFT certificate. Then after few years i become enthusiastic into learning python and machine learning. 
+- I am a AI researcher and deep learning developer and I really enjoy working on researches and cutting-edge technologies in AI. 
+- I have experience in a startup environments and had experience in entrepreneurship field.
+- I have experience in computer vision, machine vision, image processing and generative adversarials models.
+- I self-studied the whole python and machine learning algorithms and programming skills by practicing and working.
 
 <br>
 
 ### Experiences
+#### Co-Founder & CTO at [AI Land](https://www.linkedin.com/company/artificial-intelligence-land)
+- We provide AI services and AI products.
 #### Image processing Specialist at [Virasad](https://virasad.ir/en/homepage/)
 - Working machine vision and using computer vision in
 different fields of industrial monitoring, optimization
