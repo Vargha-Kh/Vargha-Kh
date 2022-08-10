@@ -25,7 +25,7 @@ detection tasks with CNNs and GANs. [Demo](https://demo.symolife.com)
 #### [Deep Utils](https://github.com/pooya-mohammadi/deep_utils) Project
 - This repository contains the most frequently used deep learning models and functions. Deep_Utils is still under heavy development, so take into consideration that many features may change in the future.
 
-#### [X-ray chest covid detection using active learning] (https://github.com/Vargha-Kh/Covid-19-detection)
+#### [X-ray chest covid detection using active learning](https://github.com/Vargha-Kh/Covid-19-detection)
 - This our work with x-ray chest covid datasets. Using active learning we managed to build a classifier with 99% accuracy to detect covid symptoms in images. In both Keras and PyTorch frameworks.
 
 #### [Bread Counter](https://github.com/Vargha-Kh/Bread_Counter) Project 
