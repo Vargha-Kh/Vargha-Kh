@@ -11,7 +11,7 @@ I enjoy every day of my life studying this field.
 
 ### Experiences
 #### Co-Founder & CTO at [AI Land](https://www.ai-land.ir)
-- We provide AI services and Bread Counter](https://github.com/Vargha-Kh/Bread_Counter) product.
+- We provide AI services and [Bread Counter](https://github.com/Vargha-Kh/Bread_Counter) product.
 #### AI Lead at [Virasad](https://virasad.ir/en/homepage/)
 - I was working as a team lead in machine vision developers and we were using computer vision tech lead in different fields of
 industrial monitoring, optimization, and image processing tasks and projects.
