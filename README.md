@@ -1,27 +1,29 @@
 # Vargha Khallokhi
 ## AI Researcher
 ### Personal Profile
-I started programming when I was 15 years old and got the C++ course MFT certificate. Then after a few years, I become enthusiastic about learning python and machine learning.
-- I am a AI researcher and deep learning developer and I really enjoy working on research and cutting-edge technologies in AI.
-- I have experience in a startup environment and had experience in the entrepreneurship field.
-- I have experience in computer vision, machine vision, image processing, and generative adversarial models.
-- I self-studied the whole python and machine learning algorithms and programming skills by practicing and working.
+I love deep learning. My whole interest in science is about AI and practicing and researching the edge-tech fields in deep learning. I have a professional experience more than 4 years. I have earned knowledge in CV, NLP, Speech and keep updating my self with the recent papers and breakthroughs in this fields.
+I have experience in a startup environment and had experience in the entrepreneurship field.
+I have experience in computer vision, machine vision, image processing, GANs, transformers, ASR, NLP and …
+I self-studied the whole python and machine learning algorithms and programming skills by practicing and working. I am also trying to learn more about data science and MLOPS and willing to learn and work on researchable projects. 
+I enjoy every day of my life studying this field. 
 
 <br>
 
 ### Experiences
 #### Co-Founder & CTO at [AI Land](https://www.ai-land.ir)
-- We provide AI services and AI products.
+- We provide AI services and Bread Counter](https://github.com/Vargha-Kh/Bread_Counter) product.
 #### AI Lead at [Virasad](https://virasad.ir/en/homepage/)
-- Working machine vision and using computer vision in
-different fields of industrial monitoring, optimization
-and image processing.
+- I was working as a team lead in machine vision developers and we were using computer vision tech lead in different fields of
+industrial monitoring, optimization, and image processing tasks and projects.
 #### AI Researcher at [SYMO](https://symolife.com/)
-- Earning experience with computer vision and
-generative models for classification and object
-detection tasks with CNNs and GANs. [Demo](https://demo.symolife.com)
+- I spent 6-month internship in symo and earned
+experience with computer vision and generative
+models for classification and object detection tasks
+with CNNs and GANs.
+
 #### NLP Paraphrasing Project [Paraphrase](http://keybot.tools)
 - This tool have multiple forms of paraphrasing modes and different grammar in English for paraphrasing.
+
 #### [Deep Utils](https://github.com/pooya-mohammadi/deep_utils) Project
 - This repository contains the most frequently used deep learning models and functions. Deep_Utils is still under heavy development, so take into consideration that many features may change in the future.
 
