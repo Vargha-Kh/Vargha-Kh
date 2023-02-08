@@ -15,7 +15,7 @@ I enjoy every day of my life studying this field.
 #### AI Lead at [Virasad](https://virasad.ir/en/homepage/)
 - I was working as a team lead in machine vision developers and we were using computer vision tech lead in different fields of
 industrial monitoring, optimization, and image processing tasks and projects.
-#### AI Researcher at [SYMO](https://symolife.com/)
+#### AI Researcher at [SYMO](https://www.linkedin.com/company/symo/)
 - I spent 6-month internship in symo and earned
 experience with computer vision and generative
 models for classification and object detection tasks
