@@ -42,6 +42,11 @@ with CNNs and GANs.
 #### [YOLOV7 on custom datasets](https://github.com/Vargha-Kh/YOLOV7_on_BCCD) Project
 - This time i used new yolo version to train a model for a medical datasets in roboflow and get the inference with 2.8 ms.
 
+#### [Fer Emotion Recognition using VIT](https://github.com/Vargha-Kh/Fer-Emotion-Recognition)
+- In this repository, I trained this dataset with both Pytorch and Keras frameworks. Due to the imbalanced and corrupted datasets, the convergence was not good enough. But in this repository, I implemented transformers in vision with resnet18 backbone in pytorch for research purposes.
+Fer Emotion Recognition using VIT
+
+
 ### Contact Me
 Email: vkhalokhi@gmail.com \
 LinkedIn: https://www.linkedin.com/in/vargha-khallokhi \
