@@ -22,10 +22,9 @@ DNN computer vision algorithms such as Image classification, object detection (Y
 - I was responsible for the Research and Development of the company and implementing models from papers and fine-tuning computer vision models for our clothes datasets.
 - I was also involved in collecting the datasets using BS4 for crawling the images and cleaning the datasets and annotating for training classifiers and object detection models.
 
+<br>
 
-#### NLP Paraphrasing Project [Paraphrase](http://keybot.tools)
-- This tool have multiple forms of paraphrasing modes and different grammar in English for paraphrasing.
-
+### Projects
 #### [Deep Utils](https://github.com/pooya-mohammadi/deep_utils) Project
 - This repository contains the most frequently used deep learning models and functions. Deep_Utils is still under heavy development, so take into consideration that many features may change in the future.
 
@@ -40,6 +39,9 @@ DNN computer vision algorithms such as Image classification, object detection (Y
 
 #### [Body Pose detection](https://github.com/Vargha-Kh/Pose-Detection-using-Media-Pipe) Project 
 - This algorithm is based on MediaPipe api and we developed the simple model into a model with more accuracy and it can be used for body tracking and even also will be used for object detection integration including a person's body.
+
+#### NLP Paraphrasing Project [Paraphrase](http://keybot.tools)
+- This tool have multiple forms of paraphrasing modes and different grammar in English for paraphrasing.
 
 #### [YOLOV7 on custom datasets](https://github.com/Vargha-Kh/YOLOV7_on_BCCD) Project
 - This time i used new yolo version to train a model for a medical datasets in roboflow and get the inference with 2.8 ms.
