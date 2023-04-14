@@ -13,13 +13,15 @@ I enjoy every day of my life studying this field.
 #### Co-Founder & CTO at [AI Land](https://www.ai-land.ir)
 - We provide AI services and [Bread Counter](https://github.com/Vargha-Kh/Bread_Counter) product.
 #### AI Lead at [Virasad](https://virasad.ir/en/homepage/)
-- I was working as a team lead in machine vision developers and we were using computer vision tech lead in different fields of
-industrial monitoring, optimization, and image processing tasks and projects.
+- I earned experience by practicing machine vision and using computer vision in different fields of industrial monitoring, optimization, and image processing.
+- I was the AI tech lead of a team and we were providing machine vision services such as classic methods of image processing (feature extraction) like SIFT, BRISK, FREAK, SURF, or ORB. 
+DNN computer vision algorithms such as Image classification, object detection (Yolo, SSD, Detectron2, Fast R-CNN and …), Image segmentation (Mask R-CNN, U-net, Deeplab, and …), anomaly detection, OCR, Face Recognition, Object tracking, Key-point estimation (Hand pose, Body pose Face-mesh) and etc.
+- I was responsible for team leadership and teamwork. I learned so much from my colleagues and improved my teamwork spirit by implementing Agile and Scrum best practices for our team.
 #### AI Researcher at [SYMO](https://www.linkedin.com/company/symo/)
-- I spent 6-month internship in symo and earned
-experience with computer vision and generative
-models for classification and object detection tasks
-with CNNs and GANs.
+- I spent an internship in Symo and earned experience with computer vision and generative models for classification and object detection tasks with CNNs and GANs. 
+- I was responsible for the Research and Development of the company and implementing models from papers and fine-tuning computer vision models for our clothes datasets.
+- I was also involved in collecting the datasets using BS4 for crawling the images and cleaning the datasets and annotating for training classifiers and object detection models.
+
 
 #### NLP Paraphrasing Project [Paraphrase](http://keybot.tools)
 - This tool have multiple forms of paraphrasing modes and different grammar in English for paraphrasing.
