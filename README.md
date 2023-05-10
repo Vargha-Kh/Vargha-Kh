@@ -25,6 +25,9 @@ DNN computer vision algorithms such as Image classification, object detection (Y
 <br>
 
 ### Projects
+#### [CRNN Pytorch Plate Recognition](https://github.com/Vargha-Kh/crnn-pytorch)
+- Pytorch implementation of the CRNN model. In this repository I explain how to train a license plate-recognition model with custom dataset using pytorch-lightning.
+
 #### [Deep Utils](https://github.com/pooya-mohammadi/deep_utils) Project
 - This repository contains the most frequently used deep learning models and functions. Deep_Utils is still under heavy development, so take into consideration that many features may change in the future.
 
