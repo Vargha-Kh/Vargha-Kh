@@ -47,7 +47,7 @@ DNN computer vision algorithms such as Image classification, object detection (Y
 - This algorithm is based on MediaPipe API and we developed the simple model into a model with more accuracy it can be used for body tracking and even also will be used for object detection integration including a person's body.
 
 #### NLP Paraphrasing Project [Paraphrase](http://keybot.tools)
-- This tool has multiple forms of paraphrasing modes and different grammar in English for paraphrasing.
+- This tool has multiple forms of paraphrasing modes and different grammar in English for paraphrasing. [Repo](https://github.com/Vargha-Kh/Paraphrasing_Project)
 
 #### [YOLOV7 on custom datasets](https://github.com/Vargha-Kh/YOLOV7_on_BCCD) Project
 - This time I used the new Yolo V7 version to train a model for medical datasets in Roboflow and get the inference with 2.8 ms.
