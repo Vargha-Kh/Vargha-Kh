@@ -28,8 +28,7 @@ I am deeply passionate about LLM development and research, with a keen interest 
 #### **Co-Founder & CTO**  
 [AI Land](https://www.ai-land.ir) | Jul 2022 – Nov 2023  
 - Founded a company providing AI services and products, such as [Bread Counter](https://github.com/Vargha-Kh/Bread_Counter), an object detection-based algorithm for monitoring bakery production.
-- Implemented large language models (LLMs) for applications like Question-Answering (QA) and document retrieval, leveraging LangChain and LangGraph frameworks.
-- Developed scalable solutions and led innovative projects in computer vision and NLP.
+- Developed scalable solutions and led innovative projects in computer vision.
 
 #### **AI Tech Lead**  
 [Virasad](https://virasad.ir/en/homepage/) | Sep 2021 – Aug 2022  
