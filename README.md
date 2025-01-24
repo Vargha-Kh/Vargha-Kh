@@ -1,63 +1,108 @@
 # Vargha Khallokhi
+
 ## AI Researcher
-### Personal Profile
-I love deep learning. My whole interest in science is about AI and practicing and researching the edge-tech fields in deep learning. I have professional experience more than 5 years. I have earned knowledge in CV, NLP, and Speech and keep updating myself with recent papers and breakthroughs in this field.
-I have experience in a startup environment and had experience in the entrepreneurship field.
-I have experience in computer vision, machine vision, image processing, GANs, transformers, ASR, NLP, and …
-I self-studied the whole Python and machine learning algorithms and programming skills by practicing and working. I am also trying to learn more about data science and MLOPS and am willing to learn and work on researchable projects. 
-I enjoy every day of my life studying this field. 
 
-<br>
+### **Personal Profile**
+I am a dedicated AI researcher with over 5 years of professional experience, primarily focused on machine vision, computer vision, NLP and speech recognition. My expertise lies in developing cutting-edge solutions for industrial monitoring, image processing, and object detection and Speech recongion pipelines while also delving into innovative research in large language models (LLMs) and LLM agents. 
 
-### Experiences
-#### Co-Founder & CTO at [AI Land](https://www.ai-land.ir)
-- We provide AI services and products. Such as [Bread Counter](https://github.com/Vargha-Kh/Bread_Counter).
-#### AI Lead at [Virasad](https://virasad.ir/en/homepage/)
-- I earned experience by practicing machine vision and using computer vision in different fields of industrial monitoring, optimization, and image processing.
-- I was the AI tech lead of a team and we were providing machine vision services such as classic methods of image processing (feature extraction) like SIFT, BRISK, FREAK, SURF, or ORB. 
-DNN computer vision algorithms such as Image classification, object detection (Yolo, SSD, Detectron2, Fast R-CNN and …), Image segmentation (Mask R-CNN, U-net, Deeplab, and …), anomaly detection, OCR, Face Recognition, Object tracking, Key-point estimation (Hand pose, Body pose Face-mesh) and etc.
-- I was responsible for team leadership and teamwork. I learned so much from my colleagues and improved my teamwork spirit by implementing Agile and Scrum best practices for our team.
-#### AI Researcher at [SYMO](https://www.linkedin.com/company/symo/)
-- I spent an internship in Symo and earned experience with computer vision and generative models for classification and object detection tasks with CNNs and GANs. 
-- I was responsible for the Research and Development of the company and implementing models from papers and fine-tuning computer vision models for our clothes datasets.
-- I was also involved in collecting the datasets using BS4 for crawling the images and cleaning the datasets and annotating for training classifiers and object detection models.
+I am deeply passionate about LLM development and research, with a keen interest in creating intelligent systems for document retrieval, conversational AI, and agentic designs. My hands-on experience spans computer vision, speech recognition, NLP, and generative AI, where I have implemented advanced frameworks and methodologies to solve complex challenges. I thrive in fast-paced, research-intensive environments, entrepreneurship spirit and am eager to contribute to start-up and impactful projects in AI technology.
 
-<br>
+---
 
-### Projects
-#### [Langchain Model for Question-Answering (QA) and Document Retrieval](https://github.com/Vargha-Kh/Langchain_LLM)
-- This code demonstrates the usage of different language models for question-answering (QA) and document retrieval tasks using Langchain. The script utilizes various language models, including OpenAI's GPT, Google's Palm, and similarity search with Llama_index's retrieval approach, to provide answers to user queries based on the provided documents.
+### **Work Experience**
+#### **LLM Engineer**  
+[Experiential Life Center](https://tajrobeh.life/) | Sep 2024 – Present  
+- Built large language model systems for user engagement and operations.
+- Designed RAG (Retrieval-Augmented Generation) pipelines for question-answering and recommendation systems.
+- Developed patient referral matchmaking systems using AI-driven agentic approaches.
 
-#### [CRNN Pytorch Plate Recognition](https://github.com/Vargha-Kh/crnn-pytorch)
-- Pytorch implementation of the CRNN model. In this repository, I explain how to train a license plate-recognition model with custom dataset using pytorch-lightning.
+#### **AI Engineer**  
+[Luxi.Ai](https://luxi.ai/) | Feb 2024 – Present  
+- Developed computer vision models for object detection, segmentation, classification, and image retrieval.
+- Developed image-retrieval pipelines for industrial and commercial use cases.
 
-#### [Deep Utils](https://github.com/pooya-mohammadi/deep_utils) Project
-- This repository contains the most frequently used deep learning models and functions. Deep_Utils is still under heavy development, so take into consideration that many features may change in the future.
+#### **LLM Agent Engineer**  
+[AgentCo](https://agentco.ai/) | Jan 2024 – Aug 2024  
+- Researched agent-based LLMs for advanced planning and task management solutions.
 
-#### [X-ray chest covid detection using active learning](https://github.com/Vargha-Kh/Covid-19-detection)
-- This is our work with x-ray chest covid datasets. Using active learning we managed to build a classifier with 99% accuracy to detect covid symptoms in images. In both Keras and PyTorch frameworks.
+#### **Co-Founder & CTO**  
+[AI Land](https://www.ai-land.ir) | Jul 2022 – Nov 2023  
+- Founded a company providing AI services and products, such as [Bread Counter](https://github.com/Vargha-Kh/Bread_Counter), an object detection-based algorithm for monitoring bakery production.
+- Implemented large language models (LLMs) for applications like Question-Answering (QA) and document retrieval, leveraging LangChain and LangGraph frameworks.
+- Developed scalable solutions and led innovative projects in computer vision and NLP.
 
-#### [Bread Counter](https://github.com/Vargha-Kh/Bread_Counter) Project 
-- This algorithm is based on YOLO object detection and will count every bread dough that will enter the oven of the bakery. The purpose of this software is to check whether the bakery will bake the correct amount of bread that the government gave them flour based on that amount.
+#### **AI Tech Lead**  
+[Virasad](https://virasad.ir/en/homepage/) | Sep 2021 – Aug 2022  
+- Led a team providing machine vision services in industrial monitoring, optimization, and image processing.
+- Specialized in classic feature extraction methods (SIFT, BRISK, ORB) and DNN-based algorithms, including YOLO, Mask R-CNN, and U-Net for object detection, segmentation, and anomaly detection.
+- Implemented Agile and Scrum methodologies to enhance collaboration and deliverables.
 
-#### [Hand Pose and gesture recognition](https://github.com/Vargha-Kh/Hand-Gesture-Recognition-Mediapipe) Project 
-- This algorithm is based on MediaPipe API and we developed the datasets by adding more images of hands it can be used for hand tracking and even also will be used for object detection integration.
+#### **AI Researcher**  
+[SYMO](https://www.linkedin.com/company/symo/) | Dec 2019 – Jan 2022  
+- Conducted research and development in computer vision and generative models, focusing on classification and object detection tasks using CNNs and GANs.
+- Built and fine-tuned models for company-specific datasets, including web crawling and data cleaning.
+- Contributed to model deployment and performance optimization for various applications.
 
-#### [Body Pose detection](https://github.com/Vargha-Kh/Pose-Detection-using-Media-Pipe) Project 
-- This algorithm is based on MediaPipe API and we developed the simple model into a model with more accuracy it can be used for body tracking and even also will be used for object detection integration including a person's body.
+---
 
-#### NLP Paraphrasing Project [Paraphrase](http://keybot.tools)
-- This tool has multiple forms of paraphrasing modes and different grammar in English for paraphrasing. [Repo](https://github.com/Vargha-Kh/Paraphrasing_Project)
+### **Projects**
 
-#### [YOLOV7 on custom datasets](https://github.com/Vargha-Kh/YOLOV7_on_BCCD) Project
-- This time I used the new Yolo V7 version to train a model for medical datasets in Roboflow and get the inference with 2.8 ms.
+#### **Langchain Model for QA and Document Retrieval**  
+[GitHub Repository](https://github.com/Vargha-Kh/Langchain-RAG-DevelopmentKit)  
+- Developed a toolkit that demonstrates how to use different language models for question-answering (QA) and document retrieval tasks using Langchain. The script utilizes various language models, including OpenAI's GPT and Ollama open-source LLM   models, to provide answers to user queries based on the provided documents.
 
-#### [Fer Emotion Recognition using VIT](https://github.com/Vargha-Kh/Fer-Emotion-Recognition)
-- In this repository, I trained this dataset with both Pytorch and Keras frameworks. Due to the imbalanced and corrupted datasets, the convergence was not good enough. But in this repository, I implemented transformers in vision with resnet18 backbone in Pytorch for research purposes.
-Fer Emotion Recognition using VIT
+#### **FitFusion**  
+[GitHub Repository](https://github.com/Vargha-Kh/FitAgent)  
+- Built an AI-powered multi-agent system for generating personalized 7-day diet and workout plans based on user inputs like age, gender, and lifestyle habits.
+- Utilized LangChain, PhiData, and Weaviate for a dynamic agentic RAG design.
 
+#### **Gooya**  
+[Project Repository](https://huggingface.co/spaces/navidved/gooya-v1)  
+- Developed a Persian automatic speech recognition system trained on over 300 hours of data.
+- Designed a custom architecture achieving state-of-the-art performance in Persian ASR tasks.
 
-### Contact Me
-Email: vkhalokhi@gmail.com \
-LinkedIn: https://www.linkedin.com/in/vargha-khallokhi \
-Phone Number: 09396463632
+#### **Communicative-Agents**  
+[GitHub Repository](https://github.com/Vargha-Kh/Communicative-Agents)  
+- Created a conversational agent capable of simulating human-like dialogue behaviors for virtual assistants and chatbots.
+- Integrated use cases for customer service and interactive conversational AI systems.
+
+#### **CRNN Pytorch Plate Recognition**  
+[GitHub Repository](https://github.com/Vargha-Kh/crnn-pytorch)  
+- Built a license plate recognition model with PyTorch Lightning, including dataset preparation and model training.
+
+#### **Deep Utils**  
+[GitHub Repository](https://github.com/pooya-mohammadi/deep_utils)  
+- Contributed in a toolkit to simplify deep learning workflows and reduce coding overhead for frequent tasks.
+
+#### **X-ray Chest COVID Detection Using Active Learning**  
+[GitHub Repository](https://github.com/Vargha-Kh/Covid-19-detection)  
+- Achieved 99% accuracy in COVID detection by training classifiers using active learning on X-ray datasets in PyTorch and TensorFlow.
+
+#### **Bread Counter**  
+[GitHub Repository](https://github.com/Vargha-Kh/Bread_Counter)  
+- Developed an algorithm for real-time dough tracking in bakeries using YOLO-based object detection.
+
+#### **NLP Paraphrasing Tool**  
+[Project Website](http://keybot.tools) | [GitHub Repository](https://github.com/Vargha-Kh/Paraphrasing_Project)  
+- Designed a paraphrasing tool with multiple grammar and style modes for NLP applications.
+
+#### **Fer Emotion Recognition Using VIT**  
+[GitHub Repository](https://github.com/Vargha-Kh/Fer-Emotion-Recognition)  
+- Trained emotion recognition models using transformers and ResNet backbones, overcoming challenges of imbalanced datasets.
+
+---
+
+### **Skills**
+- **Programming & Tools**: Python, PyTorch, LangChain, LangGraph, Transformers, Phidata, TensorFlow, OpenCV
+- **Deep Learning**: Generative AI, LLMs, CNNs, Transformers, GANs, Agents, Diffusion Models
+- **Fields of Expertise**: Computer Vision, NLP, LLM-Agents, Speech Recognition, Machine Vision, Data Science
+- **Project Management**: Agile, Scrum, Team Leadership
+
+---
+
+### **Contact Me**
+- **Email**: vkhalokhi@gmail.com  
+- **LinkedIn**: [https://www.linkedin.com/in/vargha-khallokhi](https://www.linkedin.com/in/vargha-khallokhi)  
+- **GitHub**: [https://github.com/Vargha-Kh](https://github.com/Vargha-Kh)  
+- **Phone**: +989396463632
+
